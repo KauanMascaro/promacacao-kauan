@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: rgb(151, 151, 151);
+    text-align: center;
+    color: black;
+
+}
+
+button{
+    border-color: black;
+    border-style: outset;
+    border-radius: 4px;
+    text-decoration: solid;
+}
