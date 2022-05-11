@@ -1,4 +1,4 @@
 function acao(){
     document.getElementById("botao").innerHTML = "Corinthians"
-alert("PALMEIRAS NOT HAVE WORD CHAMPIONSHIPS")
+alert("PALMEIRAS NOT HAVE WORD CHAMPIONSHIP SERIES")
 }
